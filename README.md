@@ -32,4 +32,4 @@ public Response Respond<T>(QueryResultRows<T> rows) {
 }
 ```
 
-See [Program.cs](HtmlTableRows/src/HtmlTableRows/Program.cs) for the full detail.
+See [Program.cs](https://github.com/per-samuelsson/HtmlTableRows/blob/master/src/HtmlTableRows/Program.cs) for the full detail.
